@@ -1,0 +1,7 @@
+{
+    "prettier.useTabs": true,
+    "prettier.jsxBracketSameLine": true,
+    "eslint.format.enable": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true
+}
